@@ -8,6 +8,4 @@ Front-end: HTML, CSS
 
 Back-end: PHP
 
-Database file: guesthouse.sql
-  (this is the db file that can be uploaded on phpmyadmin)
-
+Refer to 'ProjectReprt.pdf' to see the ERD and use case.
