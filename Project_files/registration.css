@@ -1,0 +1,63 @@
+
+legend {
+	font-size: 1.2em;
+	margin-bottom: 10px;
+}
+.num {
+	background:green;
+	color:white;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	font-size: 0.8em;
+	margin-right: 4px;
+	line-height: 30px;
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+	border-radius: 15px 15px 15px 0px;
+}
+/* Add padding to containers */
+.container {
+  padding: 50px;
+  background-color:black;
+  color:white;
+position:static;
+width:50%;
+height:auto;
+margin:auto;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=number], input[type=email],input[list]{
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=number]:focus, input[type=email]:focus,input[list]:focus{
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit and reset buttons */
+.register {
+  background-color: green;
+ color:white;
+  padding: 16px 16px;
+  margin: auto;
+  border: none;
+  cursor: pointer;
+  width: 120px;
+  opacity: 0.9;
+font-size:1em;
+text-align:center;
+
+
+}
+
+.register:hover {
+  opacity: 1;
+}
